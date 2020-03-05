@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <ProjectGuid>{D6C1D4AA-85DF-423B-96FD-0E0BD50864E2}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>PDxCore</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="CoreDebug64.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>../../output/PDxCore</OutDir>
+    <IntDir>../../output/PDxCore/PDxCoreLib</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>../../output/PDxCore/</OutDir>
+    <IntDir>../../output/PDxCore/PDxCoreLib</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>../../include;../../dx/include;</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Lib>
+      <AdditionalLibraryDirectories>../../FMOD\lib\x64;../../lib;</AdditionalLibraryDirectories>
+      <AdditionalDependencies>fmod_vc.lib;winmm.lib;</AdditionalDependencies>
+      <OutputFile>PDxCoreLib64_D.lib</OutputFile>
+    </Lib>
+    <PreBuildEvent>
+      <Command>copy "..\\..\\FMOD\\inc\\*.*" "..\\..\\include"
+copy "..\\..\\FMOD\\lib\\x64\\*.*" "..\\..\\lib"</Command>
+    </PreBuildEvent>
+    <PostBuildEvent>
+      <Command>md "../../include/PDxCore"
+copy "*.h" "../../include/PDxCore"
+copy "*.hpp" "../../include/PDxCore"
+md "../../Debug/PDXLib_0/"
+md "../../output/Debug"
+copy "PDxCoreLib64_D.lib" "../../Debug/PDXLib_0/"
+copy "..\\..\\FMOD\\lib\\x64\\*.dll" "../../output/Debug"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile>
+      </PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>../../include;../../dx/include;</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Lib>
+      <OutputFile>PDxCoreLib64_R.lib</OutputFile>
+    </Lib>
+    <Lib>
+      <AdditionalDependencies>fmod_vc.lib;winmm.lib;</AdditionalDependencies>
+    </Lib>
+    <Lib>
+      <AdditionalLibraryDirectories>../../FMOD\lib\x64;../../lib;</AdditionalLibraryDirectories>
+    </Lib>
+    <PostBuildEvent>
+      <Command>md "../../include/PDxCore"
+copy "*.h" "../../include/PDxCore"
+copy "*.hpp" "../../include/PDxCore"
+md "../../Release/PDXLib_0/"
+md "../../output/Release"
+copy "PDxCoreLib64_R.lib" "../../Release/PDXLib_0/"
+copy "..\\..\\FMOD\\lib\\x64\\*.dll" "../../output/Release"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h" />
+    <ClInclude Include="header.h" />
+    <ClInclude Include="P2DCamera.h" />
+    <ClInclude Include="PArcBall.h" />
+    <ClInclude Include="PCamera.h" />
+    <ClInclude Include="PDxRenderTarget.h" />
+    <ClInclude Include="PDxSprite.h" />
+    <ClInclude Include="PBitmap.h" />
+    <ClInclude Include="PButtonControl.h" />
+    <ClInclude Include="PCollision.h" />
+    <ClInclude Include="PComponentStorage.h" />
+    <ClInclude Include="PCore.h" />
+    <ClInclude Include="PDevice.h" />
+    <ClInclude Include="PDxHelper.h" />
+    <ClInclude Include="PDxState.h" />
+    <ClInclude Include="PFreeCamera.h" />
+    <ClInclude Include="PFrustum.h" />
+    <ClInclude Include="PImageControl.h" />
+    <ClInclude Include="PInput.h" />
+    <ClInclude Include="PKgcObj.h" />
+    <ClInclude Include="PLightObj.h" />
+    <ClInclude Include="PMap.h" />
+    <ClInclude Include="PMatObj.h" />
+    <ClInclude Include="PModel.h" />
+    <ClInclude Include="PNormalMapHelper.h" />
+    <ClInclude Include="PNormHeightMap.h" />
+    <ClInclude Include="PObjectInfoManager.h" />
+    <ClInclude Include="PParser.h" />
+    <ClInclude Include="PPhysicsModule.h" />
+    <ClInclude Include="PObject.h" />
+    <ClInclude Include="PSelect.h" />
+    <ClInclude Include="PShape.h" />
+    <ClInclude Include="PSkmObj.h" />
+    <ClInclude Include="PSkyBox.h" />
+    <ClInclude Include="PSound.h" />
+    <ClInclude Include="PSoundMgr.h" />
+    <ClInclude Include="PSprite.h" />
+    <ClInclude Include="PSpriteManager.h" />
+    <ClInclude Include="PStd.h" />
+    <ClInclude Include="PTexture.h" />
+    <ClInclude Include="PTextureManager.h" />
+    <ClInclude Include="PTimer.h" />
+    <ClInclude Include="PUIComponent.h" />
+    <ClInclude Include="PUIDataManager.h" />
+    <ClInclude Include="PWallAndPlatform.h" />
+    <ClInclude Include="PWindow.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="P2DCamera.cpp" />
+    <ClCompile Include="PArcBall.cpp" />
+    <ClCompile Include="PCamera.cpp" />
+    <ClCompile Include="PDxRenderTarget.cpp" />
+    <ClCompile Include="PDxSprite.cpp" />
+    <ClCompile Include="PBitmap.cpp" />
+    <ClCompile Include="PButtonControl.cpp" />
+    <ClCompile Include="PCollision.cpp" />
+    <ClCompile Include="PComponentStorage.cpp" />
+    <ClCompile Include="PCore.cpp" />
+    <ClCompile Include="PDevice.cpp" />
+    <ClCompile Include="PDxHelper.cpp" />
+    <ClCompile Include="PDxState.cpp" />
+    <ClCompile Include="PFreeCamera.cpp" />
+    <ClCompile Include="PFrustum.cpp" />
+    <ClCompile Include="PImageControl.cpp" />
+    <ClCompile Include="PInput.cpp" />
+    <ClCompile Include="PKgcObj.cpp" />
+    <ClCompile Include="PLightObj.cpp" />
+    <ClCompile Include="PMap.cpp" />
+    <ClCompile Include="PMatObj.cpp" />
+    <ClCompile Include="PModel.cpp" />
+    <ClCompile Include="PNormalMapHelper.cpp" />
+    <ClCompile Include="PNormHeightMap.cpp" />
+    <ClCompile Include="PObjectInfoManager.cpp" />
+    <ClCompile Include="PParser.cpp" />
+    <ClCompile Include="PPhysicsModule.cpp" />
+    <ClCompile Include="PObject.cpp" />
+    <ClCompile Include="PSelect.cpp" />
+    <ClCompile Include="PShape.cpp" />
+    <ClCompile Include="PSkmObj.cpp" />
+    <ClCompile Include="PSkyBox.cpp" />
+    <ClCompile Include="PSound.cpp" />
+    <ClCompile Include="PSoundMgr.cpp" />
+    <ClCompile Include="PSprite.cpp" />
+    <ClCompile Include="PSpriteManager.cpp" />
+    <ClCompile Include="PTexture.cpp" />
+    <ClCompile Include="PTextureManager.cpp" />
+    <ClCompile Include="PTimer.cpp" />
+    <ClCompile Include="PUIComponent.cpp" />
+    <ClCompile Include="PUIDataManager.cpp" />
+    <ClCompile Include="PWallAndPlatform.cpp" />
+    <ClCompile Include="PWindow.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="DiffuseLight.hlsl">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="ModelView.hlsl">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="PixelShader.hlsl">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Skybox.hlsl">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="VertexShader.hlsl">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </FxCompile>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

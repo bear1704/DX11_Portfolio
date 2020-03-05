@@ -1,0 +1,76 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (../../output/Debug/QuadTree_0/) contains files shared from another project (QuadTree_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Sample.cpp
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55840): message : 'DXGI_STATUS_OCCLUDED'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55849): message : 'DXGI_STATUS_CLIPPED'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55858): message : 'DXGI_STATUS_NO_REDIRECTION'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55867): message : 'DXGI_STATUS_NO_DESKTOP_ACCESS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55876): message : 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55885): message : 'DXGI_STATUS_MODE_CHANGED'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55894): message : 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55909): message : 'DXGI_ERROR_INVALID_CALL'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55918): message : 'DXGI_ERROR_NOT_FOUND'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55927): message : 'DXGI_ERROR_MORE_DATA'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55936): message : 'DXGI_ERROR_UNSUPPORTED'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55945): message : 'DXGI_ERROR_DEVICE_REMOVED'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55954): message : 'DXGI_ERROR_DEVICE_HUNG'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55964): message : 'DXGI_ERROR_DEVICE_RESET'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55973): message : 'DXGI_ERROR_WAS_STILL_DRAWING'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55983): message : 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55992): message : 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56002): message : 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56011): message : 'DXGI_ERROR_NONEXCLUSIVE'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56020): message : 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56030): message : 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56039): message : 'DXGI_ERROR_REMOTE_OUTOFMEMORY'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56303): message : 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56312): message : 'D3D11_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56322): message : 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56331): message : 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56279): message : 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56288): message : 'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(36,7): error C2039: 'random_device': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\queue(22): message : 'std' 선언을 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(36,21): error C2065: 'random_device': 선언되지 않은 식별자입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(36,21): error C2146: 구문 오류: ';'이(가) 'rd' 식별자 앞에 없습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(36,21): error C2065: 'rd': 선언되지 않은 식별자입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(37,7): error C2039: 'mt19937': 'std'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\queue(22): message : 'std' 선언을 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(37,15): error C2065: 'mt19937': 선언되지 않은 식별자입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(37,15): error C2146: 구문 오류: ';'이(가) 'mt' 식별자 앞에 없습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(37,18): error C3861: 'rd': 식별자를 찾을 수 없습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(37,15): error C3861: 'mt': 식별자를 찾을 수 없습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(38,2): error C2065: 'uniform_int_distribution': 선언되지 않은 식별자입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(38,30): error C2062: 예기치 않은 'int' 형식입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(39,24): error C2065: 'distribution': 선언되지 않은 식별자입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(39,38): error C2065: 'mt': 선언되지 않은 식별자입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(44,34): error C3536: 'generator': 초기화되기 전에 사용할 수 없습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(44,25): error C2064: 항은 0개의 인수를 받아들이는 함수로 계산되지 않습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\QuadTree_0\Sample.cpp(45,25): error C2064: 항은 0개의 인수를 받아들이는 함수로 계산되지 않습니다.

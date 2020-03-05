@@ -1,0 +1,11 @@
+﻿  PKgcObj.cpp
+  PLightObj.cpp
+D:\SC\C_C++\Git\DX11Project\PDxProjects\CharacterAnimation\PKgcObj.h(2,10): error C1083:  포함 파일을 열 수 없습니다. 'PModel.h': No such file or directory
+  PMatObj.cpp
+D:\SC\C_C++\Git\DX11Project\PDxProjects\CharacterAnimation\PLightObj.h(2,10): error C1083:  포함 파일을 열 수 없습니다. 'D3DX11.h': No such file or directory
+  PSkmObj.cpp
+D:\SC\C_C++\Git\DX11Project\PDxProjects\CharacterAnimation\PMatObj.h(2,10): error C1083:  포함 파일을 열 수 없습니다. 'PModel.h': No such file or directory
+  Sample.cpp
+D:\SC\C_C++\Git\DX11Project\PDxProjects\CharacterAnimation\PSkmObj.h(2,10): error C1083:  포함 파일을 열 수 없습니다. 'PModel.h': No such file or directory
+  코드를 생성하고 있습니다...
+D:\SC\C_C++\Git\DX11Project\PDxProjects\CharacterAnimation\Sample.h(3,10): error C1083:  포함 파일을 열 수 없습니다. 'PCore.h': No such file or directory

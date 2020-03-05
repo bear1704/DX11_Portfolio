@@ -1,0 +1,73 @@
+<Texture>
+	<tex_name>blue</tex_name>
+	<tex_path> data/texture/aaa.jpg	</tex_path>
+	<image_width> 991 </image_width> <!-- 무조건 width, height가 uv보다 먼저 나와야 함-->
+	<image_height> 612 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 991.0f, 612.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>green</tex_name>
+	<tex_path> data/texture/bk.bmp	</tex_path>
+	<image_width> 800 </image_width>
+	<image_height> 600 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 800.0f, 600.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>character</tex_name>
+	<tex_path> data/texture/character.bmp	</tex_path>
+	<image_width> 1200 </image_width>
+	<image_height> 475 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 100.0f, 475.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>terrain</tex_name>
+	<tex_path> data/texture/005.jpg	</tex_path>
+	<image_width> 256 </image_width>
+	<image_height> 256 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 256.0f, 256.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>block1</tex_name>
+	<tex_path> data/texture/018.bmp	</tex_path>
+	<image_width> 256 </image_width>
+	<image_height> 256 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 256.0f, 256.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>grass</tex_name>
+	<tex_path> data/texture/038.bmp	</tex_path>
+	<image_width> 1024 </image_width>
+	<image_height> 1024 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 1024.0f, 1024.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>tile</tex_name>
+	<tex_path> data/texture/017.bmp	</tex_path>
+	<image_width> 64 </image_width>
+	<image_height> 64 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 64.0f, 64.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>env</tex_name>
+	<tex_path> data/texture/grassenvmap1024.dds	</tex_path>
+	<image_width> 1024 </image_width>
+	<image_height> 1024 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 1024.0f, 1024.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>stone_wall</tex_name>
+	<tex_path> data/texture/stone_wall.bmp	</tex_path>
+	<image_width> 512 </image_width>
+	<image_height> 512 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 512.0f, 512.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+

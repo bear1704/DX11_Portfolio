@@ -1,0 +1,7 @@
+﻿  PNode.cpp
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PickingRay\PNode.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'PShape.h': No such file or directory
+  PQuadTree.cpp
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PickingRay\PNode.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'PShape.h': No such file or directory
+  Sample.cpp
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PickingRay\Sample.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'PCore.h': No such file or directory
+  코드를 생성하고 있습니다...

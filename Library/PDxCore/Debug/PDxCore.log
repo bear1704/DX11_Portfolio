@@ -1,0 +1,91 @@
+﻿  pch.cpp
+  P2DCamera.cpp
+  PAttackAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\P2DCamera.cpp(179,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PBossMobHitAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PAttackAction.cpp(166,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PBossMobIdleAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PBossMobHitAction.cpp(33,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PBossMobSkillAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PBossMobIdleAction.cpp(28,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PBossMobState.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PBossMobSkillAction.cpp(2,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PBossMonster.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PBossMobState.cpp(6,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PCharacter.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PBossMonster.cpp(167,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PCollision.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PCharacter.cpp(159,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PComponentStorage.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PCollision.cpp(126,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PCore.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PComponentStorage.cpp(34,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PDeadAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PCore.cpp(159,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PDxCore.cpp
+  PFiniteState.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PDeadAction.cpp(19,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PFsm.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PFiniteState.cpp(23,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PHitAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PFsm.cpp(44,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PIdleAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PHitAction.cpp(131,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PInput.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PIdleAction.cpp(47,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PJumpAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PInput.cpp(144,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PMobAttackAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PJumpAction.cpp(59,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  PMobDeadAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PMobAttackAction.cpp(70,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PMobHitAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PMobDeadAction.cpp(26,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PMobIdleAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PMobHitAction.cpp(52,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PMobJumpAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PMobIdleAction.cpp(58,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PMobMoveAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PMobJumpAction.cpp(37,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PMobReviveAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PMobMoveAction.cpp(91,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PMobState.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PMobReviveAction.cpp(38,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PMonster.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PMobState.cpp(7,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PMoveAction.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PMonster.cpp(226,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PObjectDataManager.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PMoveAction.cpp(83,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PObjectInfoManager.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PObjectDataManager.cpp(205,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PParser.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PObjectInfoManager.cpp(274,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PPhysicsModule.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PParser.cpp(126,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PPlayerCharacter.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PPhysicsModule.cpp(90,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PPlayerState.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PPlayerCharacter.cpp(201,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PRectObject.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PPlayerState.cpp(8,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PScene.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PRectObject.cpp(208,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PSkill.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PScene.cpp(329,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PSound.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PSkill.cpp(22,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PSoundMgr.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PSound.cpp(109,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  PTimer.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PSoundMgr.cpp(139,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PWallAndPlatform.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PTimer.cpp(73,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  PWindow.cpp
+D:\SC\C_C++\Git\DX11Project\PDxCore\PWallAndPlatform.cpp(115,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  코드를 생성하고 있습니다...
+D:\SC\C_C++\Git\DX11Project\PDxCore\PWindow.cpp(123,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?

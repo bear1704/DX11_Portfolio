@@ -1,0 +1,38 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  pch.cpp
+D:\SC\C_C++\Git\DX11Project\include\maxsdk\paramtype.h(514,1): warning C4819:  현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\SC\C_C++\Git\DX11Project\include\maxsdk\GraphicsConstants.h(1,1): warning C4819:  현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  dllmain.cpp
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\dllmain.cpp(54,55): warning C4083:  '문자열'이(가) 있어야 하는데 'TODO' 식별자가 있습니다.
+  PSCExport.cpp
+  PSCWriter.cpp
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\dllmain.cpp(60,58): warning C4083:  '문자열'이(가) 있어야 하는데 'TODO' 식별자가 있습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(26,18): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(26,18): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(29,18): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(29,18): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(29,18): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(29,18): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(34,19): warning C4477:  'fwprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'WStr'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(34,19): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(34,19): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(42,21): warning C4477:  'fwprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'WStr'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(42,21): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(42,21): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(48,22): warning C4477:  'fwprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'WStr'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(58,20): warning C4477:  'fwprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'WStr'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(58,20): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(58,20): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(64,21): warning C4477:  'fwprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'WStr'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(76,19): warning C4477:  'fwprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'WStr'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(76,19): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(76,19): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(76,19): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(76,19): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(105,22): warning C4473:  'fwprintf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(105,22): message :  자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 2개가 제공되었습니다.
+  코드를 생성하고 있습니다...
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(105,22): message :  누락된 variadic 인수 3이(가) 서식 문자열 '%10.4f'에 필요합니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter3rd\PSCWriter.cpp(429): warning C4172:  지역 변수 또는 임시: tmp_buffer의 주소를 반환하고 있습니다.
+     C:\Program Files\Autodesk\3ds Max 2019\Plugins\PSCExporter3rd.lib 라이브러리 및 C:\Program Files\Autodesk\3ds Max 2019\Plugins\PSCExporter3rd.exp 개체를 생성하고 있습니다.
+  PSCExporter3rd.vcxproj -> C:\Program Files\Autodesk\3ds Max 2019\Plugins\PSCExporter3rd.dle

@@ -1,0 +1,24 @@
+<sprite>
+	<name> blueplane </name>
+	<max_frame> 1 </max_frame>
+	<lifetime> 777 </lifetime>
+	<once_playtime> 777 </once_playtime>
+	<tex_name> blue </tex_name>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 800.0f, 500.0f </uv_rbottom> <!-- right-bottom -->
+</sprite>
+<sprite>
+	<name> character_move </name>
+	<max_frame> 4 </max_frame>
+	<lifetime> 777 </lifetime>
+	<once_playtime> 0.7 </once_playtime>
+	<tex_name> character </tex_name>
+	<uv_ltop> 31.0f, 323.0f  </uv_ltop>
+	<uv_rbottom> 97.0f, 392.0f </uv_rbottom>
+	<uv_ltop> 103.0f, 320.0f  </uv_ltop>
+	<uv_rbottom> 169.0f, 389.0f </uv_rbottom>
+	<uv_ltop> 171.0f, 318.0f  </uv_ltop>
+	<uv_rbottom> 237.0f, 388.0f </uv_rbottom>
+	<uv_ltop> 236.0f, 344.0f  </uv_ltop>
+	<uv_rbottom> 301.0f, 413.0f </uv_rbottom>
+</sprite>

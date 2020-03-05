@@ -1,0 +1,48 @@
+<Texture>
+	<tex_name>up</tex_name>
+	<tex_path> data/skybox/up.bmp	</tex_path>
+	<image_width> 512 </image_width> <!-- 무조건 width, height가 uv보다 먼저 나와야 함-->
+	<image_height> 512 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 512.0f, 512.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>dn</tex_name>
+	<tex_path> data/skybox/dn.bmp	</tex_path>
+	<image_width> 512 </image_width> <!-- 무조건 width, height가 uv보다 먼저 나와야 함-->
+	<image_height> 512 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 512.0f, 512.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>lt</tex_name>
+	<tex_path> data/skybox/lt.bmp	</tex_path>
+	<image_width> 512 </image_width> <!-- 무조건 width, height가 uv보다 먼저 나와야 함-->
+	<image_height> 512 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 512.0f, 512.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>rt</tex_name>
+	<tex_path> data/skybox/rt.bmp	</tex_path>
+	<image_width> 512 </image_width> <!-- 무조건 width, height가 uv보다 먼저 나와야 함-->
+	<image_height> 512 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 512.0f, 512.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>ft</tex_name>
+	<tex_path> data/skybox/ft.bmp	</tex_path>
+	<image_width> 512 </image_width> <!-- 무조건 width, height가 uv보다 먼저 나와야 함-->
+	<image_height> 512 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 512.0f, 512.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>bk</tex_name>
+	<tex_path> data/skybox/bk.bmp	</tex_path>
+	<image_width> 512 </image_width> <!-- 무조건 width, height가 uv보다 먼저 나와야 함-->
+	<image_height> 512 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 512.0f, 512.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>

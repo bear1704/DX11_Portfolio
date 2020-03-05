@@ -1,0 +1,17 @@
+<Texture>
+	<tex_name>stone_wall</tex_name>
+	<tex_path> data/NormalMap/stone_wall_normal_map.bmp	</tex_path>
+	<image_width> 512 </image_width> <!-- 무조건 width, height가 uv보다 먼저 나와야 함-->
+	<image_height> 512 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 512.0f, 512.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+<Texture>
+	<tex_name>test</tex_name>
+	<tex_path> data/NormalMap/test_normal_map.bmp	</tex_path>
+	<image_width> 512 </image_width> <!-- 무조건 width, height가 uv보다 먼저 나와야 함-->
+	<image_height> 512 </image_height>
+	<uv_ltop> 0.0f, 0.0f </uv_ltop> <!-- 무조건 최하단에 존재해야함!정확히는 name보다 아래에 존재 -->
+	<uv_rbottom> 512.0f, 512.0f </uv_rbottom> <!-- right-bottom -->
+</Texture>
+

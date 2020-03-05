@@ -1,0 +1,253 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  MainFrm.cpp
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(917,1): warning C4005:  'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50469): message :  'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(918,1): warning C4005:  'D3D11_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50478): message :  'D3D11_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(919,1): warning C4005:  'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50488): message :  'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(920,1): warning C4005:  'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50497): message :  'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PMap.h(48,30): warning C4244:  '초기화 중': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:  '인수': 'wchar_t'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :  컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         with
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         [
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Elem=wchar_t,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Alloc=std::allocator<char>
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         ]
+  PTool.cpp
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :  컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         with
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         [
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Elem=wchar_t,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Alloc=std::allocator<char>
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         ]
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(917,1): warning C4005:  'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50469): message :  'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(918,1): warning C4005:  'D3D11_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50478): message :  'D3D11_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(919,1): warning C4005:  'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50488): message :  'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(920,1): warning C4005:  'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50497): message :  'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PMap.h(48,30): warning C4244:  '초기화 중': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:  '인수': 'wchar_t'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :  컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         with
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         [
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Elem=wchar_t,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Alloc=std::allocator<char>
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         ]
+  PToolCore.cpp
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :  컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         with
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         [
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Elem=wchar_t,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Alloc=std::allocator<char>
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         ]
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(917,1): warning C4005:  'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50469): message :  'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(918,1): warning C4005:  'D3D11_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50478): message :  'D3D11_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(919,1): warning C4005:  'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50488): message :  'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(920,1): warning C4005:  'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50497): message :  'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PMap.h(48,30): warning C4244:  '초기화 중': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PTool\PToolCore.cpp(39,52): warning C4305:  '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:  '인수': 'wchar_t'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :  컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         with
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         [
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Elem=wchar_t,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Alloc=std::allocator<char>
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         ]
+  PToolDoc.cpp
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :  컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         with
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         [
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Elem=wchar_t,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Alloc=std::allocator<char>
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         ]
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(917,1): warning C4005:  'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50469): message :  'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(918,1): warning C4005:  'D3D11_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50478): message :  'D3D11_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(919,1): warning C4005:  'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50488): message :  'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(920,1): warning C4005:  'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50497): message :  'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PMap.h(48,30): warning C4244:  '초기화 중': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:  '인수': 'wchar_t'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :  컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         with
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         [
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Elem=wchar_t,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Alloc=std::allocator<char>
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         ]
+  PToolView.cpp
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :  컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         with
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         [
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Elem=wchar_t,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Alloc=std::allocator<char>
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         ]
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(917,1): warning C4005:  'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50469): message :  'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(918,1): warning C4005:  'D3D11_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50478): message :  'D3D11_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(919,1): warning C4005:  'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50488): message :  'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(920,1): warning C4005:  'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50497): message :  'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PMap.h(48,30): warning C4244:  '초기화 중': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:  '인수': 'wchar_t'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :  컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         with
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         [
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Elem=wchar_t,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Alloc=std::allocator<char>
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         ]
+  코드를 생성하고 있습니다...
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :  컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         with
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         [
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Elem=wchar_t,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :             _Alloc=std::allocator<char>
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(50): message :         ]
+PDxCoreLib64_D.lib(PAttackAction.obj) : error LNK2001: "class PScene * g_current_scene_" (?g_current_scene_@@3PEAVPScene@@EA) 외부 기호를 확인할 수 없습니다.
+PDxCoreLib64_D.lib(PHitAction.obj) : error LNK2001: "class PScene * g_current_scene_" (?g_current_scene_@@3PEAVPScene@@EA) 외부 기호를 확인할 수 없습니다.
+PDxCoreLib64_D.lib(PScene.obj) : error LNK2001: "class PScene * g_current_scene_" (?g_current_scene_@@3PEAVPScene@@EA) 외부 기호를 확인할 수 없습니다.
+..\..\output\PTool\Debug\PTool.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

@@ -1,0 +1,104 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Sample.cpp
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(12,1): warning C4005:  'DXGI_STATUS_OCCLUDED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55460): message :  'DXGI_STATUS_OCCLUDED'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(13,1): warning C4005:  'DXGI_STATUS_CLIPPED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55469): message :  'DXGI_STATUS_CLIPPED'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(14,1): warning C4005:  'DXGI_STATUS_NO_REDIRECTION': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55478): message :  'DXGI_STATUS_NO_REDIRECTION'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(15,1): warning C4005:  'DXGI_STATUS_NO_DESKTOP_ACCESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55487): message :  'DXGI_STATUS_NO_DESKTOP_ACCESS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(16,1): warning C4005:  'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55496): message :  'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(17,1): warning C4005:  'DXGI_STATUS_MODE_CHANGED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55505): message :  'DXGI_STATUS_MODE_CHANGED'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(18,1): warning C4005:  'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55514): message :  'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(21,1): warning C4005:  'DXGI_ERROR_INVALID_CALL': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55529): message :  'DXGI_ERROR_INVALID_CALL'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(22,1): warning C4005:  'DXGI_ERROR_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55538): message :  'DXGI_ERROR_NOT_FOUND'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(23,1): warning C4005:  'DXGI_ERROR_MORE_DATA': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55547): message :  'DXGI_ERROR_MORE_DATA'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(24,1): warning C4005:  'DXGI_ERROR_UNSUPPORTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55556): message :  'DXGI_ERROR_UNSUPPORTED'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(25,1): warning C4005:  'DXGI_ERROR_DEVICE_REMOVED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55565): message :  'DXGI_ERROR_DEVICE_REMOVED'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(26,1): warning C4005:  'DXGI_ERROR_DEVICE_HUNG': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55574): message :  'DXGI_ERROR_DEVICE_HUNG'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(27,1): warning C4005:  'DXGI_ERROR_DEVICE_RESET': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55584): message :  'DXGI_ERROR_DEVICE_RESET'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(28,1): warning C4005:  'DXGI_ERROR_WAS_STILL_DRAWING': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55593): message :  'DXGI_ERROR_WAS_STILL_DRAWING'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(29,1): warning C4005:  'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55603): message :  'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(30,1): warning C4005:  'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55612): message :  'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(31,1): warning C4005:  'DXGI_ERROR_DRIVER_INTERNAL_ERROR': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55622): message :  'DXGI_ERROR_DRIVER_INTERNAL_ERROR'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(32,1): warning C4005:  'DXGI_ERROR_NONEXCLUSIVE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55631): message :  'DXGI_ERROR_NONEXCLUSIVE'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(33,1): warning C4005:  'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55640): message :  'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(34,1): warning C4005:  'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55650): message :  'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\dxgitype.h(35,1): warning C4005:  'DXGI_ERROR_REMOTE_OUTOFMEMORY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55659): message :  'DXGI_ERROR_REMOTE_OUTOFMEMORY'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(917,1): warning C4005:  'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55923): message :  'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(918,1): warning C4005:  'D3D11_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55932): message :  'D3D11_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(919,1): warning C4005:  'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55942): message :  'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d11.h(920,1): warning C4005:  'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55951): message :  'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d10.h(608,1): warning C4005:  'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55899): message :  'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+D:\SC\C_C++\Git\DX11Project\dx\include\d3d10.h(609,1): warning C4005:  'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h(55908): message :  'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:  '인수': 'wchar_t'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :  컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :         with
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :         [
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :             _Elem=wchar_t,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :             _Alloc=std::allocator<char>
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :         ]
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :  컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :         with
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :         [
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :             _Elem=wchar_t,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :             _Alloc=std::allocator<char>
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PStd.h(47): message :         ]
+  코드를 생성하고 있습니다.
+  1 of 3185 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  CharacterAnimation.vcxproj -> D:\SC\C_C++\Git\DX11Project\PDxProjects\CharacterAnimation\../../output/CharacterAnimation/Release\CharacterAnimation.exe

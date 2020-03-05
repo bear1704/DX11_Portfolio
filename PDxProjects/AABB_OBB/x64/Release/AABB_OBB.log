@@ -1,0 +1,6 @@
+﻿  PNode.cpp
+  PQuadTree.cpp
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PDxHelper.h(5,10): error C1083:  포함 파일을 열 수 없습니다. 'd3dx11.h': No such file or directory
+  Sample.cpp
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PDxHelper.h(5,10): error C1083:  포함 파일을 열 수 없습니다. 'd3dx11.h': No such file or directory
+D:\SC\C_C++\Git\DX11Project\include\PDxCore\PDevice.h(7,10): error C1083:  포함 파일을 열 수 없습니다. 'd3dx11.h': No such file or directory

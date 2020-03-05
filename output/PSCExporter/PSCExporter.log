@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  pch.cpp
+D:\SC\C_C++\Git\DX11Project\include\maxsdk\paramtype.h(514,1): warning C4819:  현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\SC\C_C++\Git\DX11Project\include\maxsdk\GraphicsConstants.h(1,1): warning C4819:  현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  dllmain.cpp
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter\dllmain.cpp(49,55): warning C4083:  '문자열'이(가) 있어야 하는데 'TODO' 식별자가 있습니다.
+  PSCExportPrac.cpp
+  코드를 생성하고 있습니다...
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSCExporter\dllmain.cpp(55,58): warning C4083:  '문자열'이(가) 있어야 하는데 'TODO' 식별자가 있습니다.
+     C:\Program Files\Autodesk\3ds Max 2019\Plugins\PSCExporter.lib 라이브러리 및 C:\Program Files\Autodesk\3ds Max 2019\Plugins\PSCExporter.exp 개체를 생성하고 있습니다.
+  PSCExporter.vcxproj -> C:\Program Files\Autodesk\3ds Max 2019\Plugins\PSCExporter.dle

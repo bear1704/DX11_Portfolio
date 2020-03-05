@@ -1,0 +1,34 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  PSkinExp.cpp
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(49,47): warning C4267:  '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(50,50): warning C4267:  '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(53,18): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(53,18): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(68,19): warning C4477:  'fwprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'WStr'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(68,19): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(68,19): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(77,21): warning C4477:  'fwprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'WStr'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(77,21): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(77,21): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(83,22): warning C4477:  'fwprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'WStr'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(91,20): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(91,20): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(97,21): warning C4477:  'fwprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'WStr'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(109,19): warning C4477:  'fwprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'WStr'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(109,19): warning C4477:  'fwprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'WStr'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(109,19): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(109,19): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(109,19): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(109,19): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(141,20): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(141,20): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(192,20): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(192,20): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(205,18): warning C4477:  'fwprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(205,18): message :  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(432,20): warning C4244:  '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(468,80): warning C4267:  '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(515,34): warning C4267:  '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\PSkinExp.cpp(615,78): warning C4267:  '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PSC_TBSExporter.vcxproj -> C:\Program Files\Autodesk\3ds Max 2019\Plugins\PSC_TBSExporter.dlu

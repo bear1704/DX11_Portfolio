@@ -1,0 +1,2 @@
+﻿  pch.cpp
+D:\SC\C_C++\Git\DX11Project\PDxProjects\PSC_TBSExporter\pch.h(16,10): error C1083:  포함 파일을 열 수 없습니다. 'istdplug.h': No such file or directory
